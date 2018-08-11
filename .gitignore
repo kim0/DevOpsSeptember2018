@@ -13,3 +13,6 @@
 
 # Binaries
 virus*
+
+# Terraform
+.terraform/
