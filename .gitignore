@@ -16,3 +16,4 @@ virus*
 
 # Terraform
 .terraform/
+terraform.tfstate*
